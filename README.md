@@ -4,6 +4,9 @@
 it empowers users to navigate the web with intention: no cookies unless summoned, no distractions unless invited.
 
 ---
+## 📲 APK Access
+
+📥 [Download AmnesioPath APK](https://github.com/thegenzdev0712/AmnesioPath_Browser/releases/download/v1.0.0/AmnesioPath-v1.0.0.apk)
 
 ## ✨ Features
 
